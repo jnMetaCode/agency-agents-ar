@@ -70,6 +70,8 @@ npm i agency-agents-ar
 
 </div>
 
+أو تصفح الوكلاء الـ 187 مباشرة دون تثبيت: [**ao.aiolaola.com/experts?lib=ar**](https://ao.aiolaola.com/experts?lib=ar)
+
 <p align="center"><img src="assets/studio-role-lib.png" width="800" alt="AO Studio — مكتبة العربية"></p>
 
 ---
