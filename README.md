@@ -11,6 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-ar?style=social)](https://github.com/jnMetaCode/agency-agents-ar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![npm](https://img.shields.io/npm/v/agency-agents-ar?color=cb3837&logo=npm)](https://www.npmjs.com/package/agency-agents-ar)
 
 
 ### 📊 حجم المشروع
@@ -50,6 +51,26 @@ ao compose "اكتب تحليلاً عميقاً عن AI Agents" --run
 | 🆓 **6 LLMs مجانية** | Claude Code / Gemini CLI / Copilot / Codex / OpenClaw / Ollama |
 | 💰 **3 تكاملات API** | DeepSeek / Claude API / OpenAI |
 | 📋 **32 قالباً جاهزاً** | تطوير، تسويق، تحليلات، تصميم، عمليات |
+
+<div dir="rtl">
+
+### استخدم هذه المكتبة مباشرة في AO
+
+منشورة أيضاً كحزمة npm (`agency-agents-ar`):
+
+</div>
+
+```bash
+npm i agency-agents-ar
+```
+
+<div dir="rtl">
+
+في الـ workflow استخدم `agents_dir: "agency-agents-ar"`، أو اختر **العربية** من قائمة المكتبات في صفحة «Build a Team» في Studio:
+
+</div>
+
+<p align="center"><img src="assets/studio-role-lib.png" width="800" alt="AO Studio — مكتبة العربية"></p>
 
 ---
 
