@@ -4,7 +4,7 @@
 
 🌐 **العربية** | [English (upstream)](https://github.com/msitarzewski/agency-agents) | [简体中文](https://github.com/jnMetaCode/agency-agents-zh) | [한국어](https://github.com/jnMetaCode/agency-agents-ko) | [Português (BR)](https://github.com/jnMetaCode/agency-agents-pt-BR) | [Русский](https://github.com/jnMetaCode/agency-agents-ru) | [Bahasa Indonesia](https://github.com/jnMetaCode/agency-agents-id)
 
-> **184 شخصية ذكاء اصطناعي جاهزة للاستخدام** — تغطي الهندسة، التصميم، التسويق، المنتج، الألعاب، الأمان، المالية، و 18 قسماً آخر. ليست قوالب prompt عامة: كل وكيل له شخصيته الخاصة، سير العمل المهني، ومخرجات محددة. يدعم Claude Code و Cursor و Copilot و 17 أداة ذكاء اصطناعي للبرمجة.
+> **187 شخصية ذكاء اصطناعي جاهزة للاستخدام** — تغطي الهندسة، التصميم، التسويق، المنتج، الألعاب، الأمان، المالية، و 18 قسماً آخر. ليست قوالب prompt عامة: كل وكيل له شخصيته الخاصة، سير العمل المهني، ومخرجات محددة. يدعم Claude Code و Cursor و Copilot و 17 أداة ذكاء اصطناعي للبرمجة.
 
 النسخة العربية المجتمعية لـ [agency-agents](https://github.com/msitarzewski/agency-agents). ترجمة كاملة لـ 184 وكيل من المصدر الأصلي. **PRs مرحب بها** للوكلاء الخاصين بالسوق العربي (Snapchat MENA, Noon, Talabat, Careem, STC, إلخ.).
 
@@ -17,7 +17,7 @@
 
 | 🤖 وكلاء AI | 🌏 ترجمة المصدر | 🇸🇦 أصلي عربي | 🧠 أدوات | 🏢 أقسام |
 |:---:|:---:|:---:|:---:|:---:|
-| **184** | **184** | **PRs welcome** | **17** | **18** |
+| **187** | **184** | **3** | **17** | **18** |
 
 ---
 
@@ -101,7 +101,7 @@ cp -r engineering/*.md ~/.claude/agents/
 
 ## قائمة الوكلاء
 
-الكتالوج الكامل لـ 184 وكيل: **[CATALOG.md](CATALOG.md)**. ملخص الأقسام:
+الكتالوج الكامل لـ 187 وكيل: **[CATALOG.md](CATALOG.md)**. ملخص الأقسام:
 
 | القسم | عدد الوكلاء | أدوار نموذجية |
 |------|------------|---------------|
@@ -169,14 +169,14 @@ cp -r engineering/*.md ~/.claude/agents/
 
 | المشروع | التموضع | ملخص |
 |---------|---------|------|
-| **هذا المشروع** (agency-agents-ar) | 🎭 مكتبة شخصيات بالعربية | 184 خبير AI **جاهز للاستخدام**، PRs السوق العربي welcome |
+| **هذا المشروع** (agency-agents-ar) | 🎭 مكتبة شخصيات بالعربية | 187 خبير AI **جاهز للاستخدام**، PRs السوق العربي welcome |
 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) ![](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat&label=⭐) | 🇨🇳 النسخة الصينية | 215 وكيلاً (165 ترجمة + 50 أصلي للسوق الصيني) |
-| [agency-agents-ko](https://github.com/jnMetaCode/agency-agents-ko) | 🇰🇷 النسخة الكورية | 184 وكيلاً مترجماً |
-| [agency-agents-pt-BR](https://github.com/jnMetaCode/agency-agents-pt-BR) | 🇧🇷 النسخة البرازيلية | 184 وكيلاً مترجماً |
-| [agency-agents-ru](https://github.com/jnMetaCode/agency-agents-ru) | 🇷🇺 النسخة الروسية | 184 وكيلاً مترجماً |
-| [agency-agents-id](https://github.com/jnMetaCode/agency-agents-id) | 🇮🇩 النسخة الإندونيسية | 184 وكيلاً مترجماً |
+| [agency-agents-ko](https://github.com/jnMetaCode/agency-agents-ko) | 🇰🇷 النسخة الكورية | 187 وكيلاً مترجماً |
+| [agency-agents-pt-BR](https://github.com/jnMetaCode/agency-agents-pt-BR) | 🇧🇷 النسخة البرازيلية | 187 وكيلاً مترجماً |
+| [agency-agents-ru](https://github.com/jnMetaCode/agency-agents-ru) | 🇷🇺 النسخة الروسية | 187 وكيلاً مترجماً |
+| [agency-agents-id](https://github.com/jnMetaCode/agency-agents-id) | 🇮🇩 النسخة الإندونيسية | 187 وكيلاً مترجماً |
 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 🌏 الأصلي بالإنجليزية | 184 وكيلاً أصلياً |
-| [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) | 🚀 محرك التنسيق | جملة واحدة → 184 خبير يتعاونون، **نتائج في دقائق** |
+| [agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) | 🚀 محرك التنسيق | جملة واحدة → 187 خبير يتعاونون، **نتائج في دقائق** |
 
 ---
 
@@ -196,7 +196,7 @@ MIT License — استخدام تجاري أو شخصي بحرية.
 
 <div align="center">
 
-**184 شخصية AI، دعم 17 أداة، plug-and-play**
+**187 شخصية AI، دعم 17 أداة، plug-and-play**
 
 [⭐ ضع نجمة](https://github.com/jnMetaCode/agency-agents-ar) · [افتح Issue](https://github.com/jnMetaCode/agency-agents-ar/issues) · [ساهم](https://github.com/jnMetaCode/agency-agents-ar/pulls)
 

@@ -30,7 +30,7 @@
 | راوي القصص البصرية | `design/design-visual-storyteller.md` |
 | محقن البهجة | `design/design-whimsy-injector.md` |
 
-## 🛠️ الهندسة (29)
+## 🛠️ الهندسة (30)
 
 | الاسم | مسار الملف |
 |---------|-----------|
@@ -38,6 +38,7 @@
 | مهندس الذكاء الاصطناعي | `engineering/engineering-ai-engineer.md` |
 | مهندس التحسين الذاتي المستقل | `engineering/engineering-autonomous-optimization-architect.md` |
 | مهندس معماريات الخلفية | `engineering/engineering-backend-architect.md` |
+| مهندس Buy Now Pay Later لمنطقة الشرق الأوسط | `engineering/engineering-bnpl-mena-fintech-engineer.md` |
 | مطوّر CMS | `engineering/engineering-cms-developer.md` |
 | مراجع الكود | `engineering/engineering-code-reviewer.md` |
 | مهندس إعداد قواعد البرمجيات | `engineering/engineering-codebase-onboarding-engineer.md` |
@@ -99,7 +100,7 @@
 | فنان تقني لـ Unreal Engine | `game-development/unreal-engine/unreal-technical-artist.md` |
 | منشئ العوالم في Unreal | `game-development/unreal-engine/unreal-world-builder.md` |
 
-## 📢 التسويق (30)
+## 📢 التسويق (32)
 
 | الاسم | مسار الملف |
 |---------|-----------|
@@ -120,11 +121,13 @@
 | خبير استراتيجيات كوايشو | `marketing/marketing-kuaishou-strategist.md` |
 | منشئ محتوى LinkedIn | `marketing/marketing-linkedin-content-creator.md` |
 | مدرّب التجارة عبر البث المباشر | `marketing/marketing-livestream-commerce-coach.md` |
+| بائع نون | `marketing/marketing-noon-seller.md` |
 | استراتيجي البودكاست | `marketing/marketing-podcast-strategist.md` |
 | مشغّل المجال الخاص | `marketing/marketing-private-domain-operator.md` |
 | منشئ مجتمع Reddit | `marketing/marketing-reddit-community-builder.md` |
 | متخصص SEO | `marketing/marketing-seo-specialist.md` |
 | مدرّب مونتاج الفيديوهات القصيرة | `marketing/marketing-short-video-editing-coach.md` |
+| أخصائي استراتيجية Snapchat لمنطقة الشرق الأوسط | `marketing/marketing-snapchat-mena-strategist.md` |
 | استراتيجي وسائل التواصل الاجتماعي | `marketing/marketing-social-media-strategist.md` |
 | استراتيجي TikTok | `marketing/marketing-tiktok-strategist.md` |
 | مشارك تويتر التسويقي | `marketing/marketing-twitter-engager.md` |
@@ -263,4 +266,4 @@
 
 ---
 
-**총 184 وكيلاً** · الترجمة العربية لـ upstream agency-agents
+**총 187 وكيلاً** · الترجمة العربية لـ upstream agency-agents
